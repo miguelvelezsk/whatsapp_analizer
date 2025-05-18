@@ -1,7 +1,12 @@
 dist/
 build/
 <<<<<<< HEAD
+<<<<<<< HEAD
 dist/
 build/
 =======
 >>>>>>> e3bf7a9 (Add dist/ and build/ to .gitignore)
+=======
+dist/
+build/
+>>>>>>> 8874b13 (Add dist/ and build/ to .gitignore)
